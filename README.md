@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to Design and Deejay
-- 😻 Check out the my LinkedIn account: [LinkedIn](https://www.linkedin.com/in/charles-mwangangi-434140207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2UHvmQ0OSNy%2Bh3mfC0C%2FrQ%3D%3D)
+- 😻 Check out my LinkedIn account: [LinkedIn](https://www.linkedin.com/in/charles-mwangangi-434140207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2UHvmQ0OSNy%2Bh3mfC0C%2FrQ%3D%3D)
 
 ### Connect with me:
 
