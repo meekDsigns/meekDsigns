@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[![website](globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](globe-light.svg)](https://meekdesigns.com#gh-light-mode-only)
+[![website](globe-dark.svg)](https://meekdesigns.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](youtube-light.svg)](https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug#gh-light-mode-only)
-[![website](youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](youtube-dark.svg)](https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
