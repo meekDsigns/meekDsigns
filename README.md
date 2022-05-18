@@ -17,14 +17,14 @@
 [![website](youtube-light.svg)](https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug#gh-light-mode-only)
 [![website](youtube-dark.svg)](https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](twitter-light.svg)](https://twitter.com/meekDsigns#gh-light-mode-only)
+[![website](twitter-dark.svg)](https://twitter.com/meekDsigns#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/charles-mwangangi-434140207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2UHvmQ0OSNy%2Bh3mfC0C%2FrQ%3D%3D#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://www.linkedin.com/in/charles-mwangangi-434140207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2UHvmQ0OSNy%2Bh3mfC0C%2FrQ%3D%3D#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/meekdsigns#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/meekdsigns#gh-dark-mode-only)
 
 ### Languages and Tools:
 
