@@ -55,7 +55,7 @@
 [youtube]: https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug
+[webdevplaylist]: https://youtube.com/playlist?list=PLrjHlrR038wWCE8bDVqzKVSNQd5xNN3MB
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
