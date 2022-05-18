@@ -1,4 +1,4 @@
-# Hi there, I'm Charles - aka [Meek][youtube] 👋 
+# Hi there, I'm Charles ~ [Meek][youtube] 👋 
 
 
 ## I'm a Son, Brother, Developer, and a DeeJay!!
