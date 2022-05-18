@@ -1,20 +1,21 @@
-# Hi there, I'm Charles - aka [Meek][youtube] 👋 
+# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
 
 
-## I'm a Son, Brother, Developer, and a DeeJay!!
+## I'm a Husband, Father, Developer, and Teacher!!
 
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other web developers
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to Design and Deejay
-- 😻 Check out my LinkedIn account: [LinkedIn](https://www.linkedin.com/in/charles-mwangangi-434140207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2UHvmQ0OSNy%2Bh3mfC0C%2FrQ%3D%3D)
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
@@ -52,7 +53,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://www.youtube.com/channel/UCmpclvybLzoqC56pE3v91Ug
+[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
